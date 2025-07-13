@@ -57,7 +57,7 @@ A versatile client-side toolset combining **Zakat + SIP Calculator** with **AI-p
 
 ## ⚡ Live Demo
 
-👉 [Use it live on GitHub Pages](https://github.com/Shaikh-Aayan/Islamic-Wealth-Solutions)  
+👉 [Use it live on GitHub Pages]( https://shaikh-aayan.github.io/Islamic-Wealth-Solutions)
 *(Mobile-friendly & lightweight)*
 
 ---
