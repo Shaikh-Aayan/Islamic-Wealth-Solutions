@@ -67,3 +67,35 @@ A versatile client-side toolset combining **Zakat + SIP Calculator** with **AI-p
 1. Clone the repo:
    ```bash
    git clone https://github.com/Shaikh-Aayan/Islamic-Wealth-Solutions
+
+
+## 🤖 AI Contribution Note
+
+This project was built by **Aayan**, using:
+- 100% idea, structure, planning by myself  
+- Code generated with help from ChatGPT + DeepSeek  
+- 30+ versions tested, edited and polished manually  
+- 3400+ lines of JavaScript inside one smart `index.html`
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is for personal awareness and educational use.  
+For official zakat rulings, consult a scholar.  
+For large investments, consult a financial advisor.
+
+---
+
+## 📬 Connect With Me
+
+**Aayan**  
+Student | ACCA-in-progress 
+🔗 [LinkedIn](https://linkedin.com/in/aayanshaikhacca)  
+📧 Email: ayanmuhammad953@gmail.com
+
+---
+
+## ⭐ Like this tool?
+
+Star the repo. Share it with friends. Let’s help more people calculate zakat & invest wisely.
